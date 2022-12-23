@@ -134,7 +134,7 @@ guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
                     </a>
                         <a class="popup-youtube" href="<?= $detail->deskripsi; ?>">
                         <h4> Link of the course </h4>
-                        <a data-aos="fade-up" data-aos-duration="2000" class="main_btn" href="<?= base_url('quiz/PHP_KUIZ/index.php') ?>#registration">Quiz <span class="lnr lnr-arrow-right"></span></a>
+                        <a data-aos="fade-up" data-aos-duration="2000" class="main_btn" href="<?= base_url('PHP_KUIZ/index.php') ?>#registration">Quiz <span class="lnr lnr-arrow-right"></span></a>
 
                     </div>
                 </div>
